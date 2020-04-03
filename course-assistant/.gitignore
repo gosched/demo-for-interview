@@ -1,0 +1,17 @@
+*.DS_Store
+*.yaml
+*.json
+*.pem
+*.txt
+*.md
+*.sql
+*.log
+*.bash
+
+certificate*/
+database*/
+resource*/
+storage*/
+
+node_modules/
+dist
