@@ -1,0 +1,6 @@
+*package-lock.json
+*node_modules/
+*database/
+*config.js
+*.env
+.DS_Store
